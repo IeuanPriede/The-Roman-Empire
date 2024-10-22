@@ -122,10 +122,12 @@ footer {
     }
 
     #logo {
-        margin-top: 10px;
+        margin-left: 0.3rem;
+        font-size: 220%;
+        line-height: 75px;
     }
 
     main {
-        margin-top: 63px;
+        margin-top: 77px;
     }
 }
