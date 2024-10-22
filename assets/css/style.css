@@ -20,14 +20,24 @@ body {
     font-family: 'Karla', sans-serif;
 }
 
-h1 {
-    color: #ffffff;
-    font-family: 'Cormorant', sans-serif;
-}
-
 /* Header */
 header {
     background-color: maroon;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+}
+
+header a {
+    text-decoration: none;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Cormorant', sans-serif;
+    text-transform: uppercase;
 }
 
 /* Main content */
