@@ -1,4 +1,4 @@
-Welcome to The Roman Empire site
+# Welcome to The Roman Empire site
 
 Visit the deplyed side: [The Roman Empire] (https://ieuanpriede.github.io/Project-1/)
 
@@ -14,6 +14,7 @@ Much of the world we know today took shape during the Roman era.
 * [Design](#design) 
   * [Colour Scheme](#colour-scheme)
   * [Typography](#typography)
+  * [Imagery](#imagery)
 
 ## User Experience
 
@@ -48,3 +49,8 @@ I wanted to use a darker red colour scheme to add emphasis to fact that this sit
 Google Fonts was used to import the chosen fonts for use in the site.
 
 * For the Page Title I have used the google font [Cormorant] ('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap')
+* For the Page Content I have used the google font [Karla] ('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap')
+
+### Imagery
+
+As the website is called The Roman Empire, I wanted to use an image for the page background of a Roman structure (colosseum ) to give the user the feeling that they are visiting an ancient Roman site.
