@@ -16,7 +16,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #3a3a3a;
+    color: #ffffff;
     font-family: 'Karla', sans-serif;
 }
 
@@ -32,13 +32,14 @@ header {
 
 header a {
     text-decoration: none;
+    color: inherit;
 }
 
 h1 {
     color: #ffffff;
     font-family: 'Cormorant', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 }
 
 #menu {
