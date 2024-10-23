@@ -20,6 +20,13 @@ body {
     font-family: 'Karla', sans-serif;
 }
 
+h1, h2, h3 {
+    color: #ffffff;
+    font-family: 'Cormorant', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
 /* Header */
 header {
     background-color: maroon;
@@ -36,13 +43,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    color: #ffffff;
-    font-family: 'Cormorant', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
 }
 
 #menu {
@@ -98,6 +98,18 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/pexels-karol-wisniewski-279026-851646.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    /* Final rgba value sets the opacity so it is semi-transparent */
+    background-color: rgba(117, 3, 3, 0.6);
+    font-size: 130%;
+    position: absolute;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    bottom: 100px;
 }
 
 /* Footer */
