@@ -112,6 +112,21 @@ main {
     bottom: 100px;
 }
 
+#whatwas {
+    width: 100%;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+
+#whatwas > p {
+    padding-top: 10px;
+}
+
+#map {
+    width: 100%;
+    padding-right: 5px;
+}
+
 /* Footer */
 footer {
     background-color: maroon;

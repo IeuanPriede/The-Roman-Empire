@@ -54,3 +54,5 @@ Google Fonts was used to import the chosen fonts for use in the site.
 ### Imagery
 
 As the website is called The Roman Empire, I wanted to use an image for the page background of a Roman structure (colosseum ) to give the user the feeling that they are visiting an ancient Roman site.
+
+The map of the Roman territory was taken from google images. Here is the link: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Map_of_the_Roman_Empire_at_its_height.svg/1200px-Map_of_the_Roman_Empire_at_its_height.svg.png
