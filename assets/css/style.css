@@ -162,11 +162,25 @@ footer {
     main {
         margin-top: 77px;
     }
+
+    #cover-text {
+        width: 390px;
+        right: 20px;
+        font-size: 150%;
+        bottom: 50px;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover{
         border-bottom: 1px solid #ffffff;
+    }
+
+    #cover-text {
+        font-size: 300%;
+        bottom: 3em;
+        right: 20px;
+        width: 45rem;
     }
 }
