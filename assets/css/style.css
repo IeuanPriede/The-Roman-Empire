@@ -122,7 +122,19 @@ main {
     padding-top: 10px;
 }
 
-#image {
+#map {
+    width: 100%;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+#romansoldier {
+    width: 100%;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+#chariot {
     width: 100%;
     padding-right: 5px;
     padding-top: 10px;
@@ -144,6 +156,23 @@ footer {
     font-size: 160%;
     padding: 5%;
     color: #ffffff;
+}
+
+/* Media query: larger phones and larger (380px and up) */
+@media screen and (min-width: 380px) {
+    main {
+        margin-top: 40px;
+    }
+
+    #cover-text {
+        font-size: 160%;
+        bottom: 75px;
+    }
+
+    #whatwas {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -184,6 +213,14 @@ footer {
         right: 20px;
         font-size: 150%;
         bottom: 50px;
+    }
+
+    #whatwas > p {
+        width: 40%;
+    }
+
+    #image {
+        width: 50%;
     }
 }
 
