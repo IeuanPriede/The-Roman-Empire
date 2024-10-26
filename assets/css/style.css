@@ -324,15 +324,15 @@ footer {
         padding: 0px 40px;
     }
 
+    .timeline::after {
+        left: 50%;
+    }
+
     .left {
         left: 0;
     }
 
     .right {
-        left: 50%;
-    }
-
-    .timeline::after {
         left: 50%;
     }
 
@@ -347,6 +347,7 @@ footer {
     #heading {
         font-size: 200%;
     }
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -370,7 +371,7 @@ footer {
     /* Timeline */
 
     .left::after {
-        left: 96.7%;
+        left: 97%;
     }
 }
 
@@ -383,15 +384,11 @@ footer {
     }
 }
 
-/* 4k (1440px and up) */
-@media screen and (min-width: 2560px) {
+/* 4k (2490px and up) */
+@media screen and (min-width: 2490px) {
     .timeline {
-        max-width: 2560px;
+        max-width: 2500px;
         padding-left: 25%;
         padding-right: 25%;
-    }
-
-    .left::after {
-        left: 97.3%;
     }
 }
