@@ -270,4 +270,9 @@ footer {
         right: 20px;
         width: 45rem;
     }
+
+    #whatwas {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
 }
