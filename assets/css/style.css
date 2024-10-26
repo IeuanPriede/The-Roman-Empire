@@ -143,6 +143,46 @@ main {
     padding-top: 10px;
 }
 
+/* Timeline */
+
+.timeline {
+    max-width: 1000px;
+    margin: 100px auto;
+    position: relative;
+    padding: 10px;
+}
+
+.container {
+    position: relative;
+    padding: 10px 40px;
+    width: 100%;
+}
+
+.content {
+    background: rgba(36, 36, 32, 0.8);
+    border-radius: 6px;
+    padding: 5px;
+}
+
+.content > h2 {
+    text-transform: none;
+}
+
+.content > p {
+    padding-top: 5px;
+}
+
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: gold;
+    top: 0;
+    bottom: 0;
+    left: 20px;
+    margin-left: -3px;
+  }
+
 /* Footer */
 footer {
     background-color: maroon;

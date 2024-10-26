@@ -15,6 +15,22 @@ Much of the world we know today took shape during the Roman era.
   * [Colour Scheme](#colour-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
+* [Features](#features)
+* [Accessibility](#accessibility)
+
+* [Technologies Used](#technologies-used)
+  * [Languages Used](#languages-used)
+  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+
+* [Deployment & Local Development](#deployment--local-development)
+  * [Deployment](#deployment)
+  * [Local Development](#local-development)
+
+* [Testing] (#testing)
+
+* [Credits] (#credits)
+
+- - -
 
 ## User Experience
 
@@ -56,3 +72,43 @@ Google Fonts was used to import the chosen fonts for use in the site.
 As the website is called The Roman Empire, I wanted to use an image for the page background of a Roman structure (colosseum ) to give the user the feeling that they are visiting an ancient Roman site.
 
 The map of the Roman territory was taken from google images. Here is the link: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Map_of_the_Roman_Empire_at_its_height.svg/1200px-Map_of_the_Roman_Empire_at_its_height.svg.png
+
+The images of the Roman Soldier and the Chariot were taken from Pixabay. Here are the links: https://cdn.pixabay.com/photo/2017/05/28/09/59/rome-2350633_960_720.jpg (Roman Soldier), https://cdn.pixabay.com/photo/2019/09/17/19/42/char-4484402_1280.jpg (Chariot).
+
+### Features
+
+The website is comprised of a home page, a timeline page, a newsletter page.
+
+All pages are responsive and have:
+
+* A Favicon in the browser tab.
+
+![favicon]()
+
+* The title of the site at the top of every page. This title also acts as a link back to the home page.
+
+![The Roman Empire Title]()
+
+#### The Home Page
+
+#### The Timeline Page
+
+#### The Newsletter Page
+
+### Accessibility
+
+## Technologies Used
+
+### Languages Used
+
+### Frameworks, Libraries & Programs Used
+
+## Deployment & Local Development
+
+### Deployment
+
+### Local Development
+
+## Testing
+
+## Credits
