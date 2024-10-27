@@ -219,20 +219,33 @@ main {
 }
 
 #signup-form {
-    color: #ffffff;
     background-color: rgba(117, 3, 3, 0.6);
-    
-    
 }
 
 #signup-form > h2 {
     text-align: center;
+    padding: 100px 0 100px 0;
+}
+
+#signup-form > h3 {
+    text-align: center;
+    padding-bottom: 100px;
 }
 
 #signup-form > label {
-    
+    margin-left: 5px;
+    font-size: 20px;
 }
 
+#signup-form > input {
+    width: 96%;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+#signup-form > button {
+    
+}
 
 /* Footer */
 footer {
