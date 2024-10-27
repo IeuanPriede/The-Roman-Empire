@@ -190,7 +190,7 @@ main {
     margin-left: -3px;
   }
 
-  .container::after {
+.container::after {
     content: '';
     position: absolute;
     width: 25px;
@@ -201,7 +201,38 @@ main {
     border-radius: 50%;
     z-index: 1;
     left: -6px;
-  }
+}
+
+/* Newsletter */
+
+#newsletter {
+    display: flex;
+    flex-direction: column;
+}
+
+#signup {
+    background-image: url("../images/pexels-karol-wisniewski-279026-851646.jpg");
+    background-size: cover;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+    height: fit-content;
+}
+
+#signup-form {
+    color: #ffffff;
+    background-color: rgba(117, 3, 3, 0.6);
+    
+    
+}
+
+#signup-form > h2 {
+    text-align: center;
+}
+
+#signup-form > label {
+    
+}
+
 
 /* Footer */
 footer {
