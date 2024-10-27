@@ -213,7 +213,7 @@ main {
 #signup {
     background-image: url("../images/pexels-karol-wisniewski-279026-851646.jpg");
     background-size: cover;
-    padding: 20px 10% 0 10%;
+    padding: 20px 10% 10% 10%;
     flex-grow: 1;
     height: fit-content;
 }
@@ -221,17 +221,17 @@ main {
 #signup-form {
     background-color: rgba(117, 3, 3, 0.6);
     padding: 20px;
-    padding-bottom: 100px;
+    padding-bottom: 100%;
 }
 
 #signup-form > h2 {
     text-align: center;
-    padding: 100px 0 100px 0;
+    padding: 40% 0 50% 0;
 }
 
 #signup-form > h3 {
     text-align: center;
-    padding-bottom: 100px;
+    padding-bottom: 50%;
 }
 
 #signup-form > label {
@@ -241,16 +241,17 @@ main {
 .text-input {
     width: 100%;
     border-radius: 5px;
-    height: 30px;
+    height: 35px;
 }
 
 .join-button {
     border-radius: 5px;
-    padding: 10px 20px;
+    padding: 10px 25px;
     font-size: 100%;
     margin-top: 10px;
     background-color: rgb(192, 173, 62);
     text-transform: uppercase;
+    width: 100%;
 }
 
 /* Footer */
@@ -288,7 +289,6 @@ footer {
         padding-bottom: 10px;
     }
 }
-
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header*/
@@ -398,6 +398,37 @@ footer {
         font-size: 200%;
     }
 
+    /* Newsletter */
+
+    #signup {
+        padding: 10%;
+    }
+
+    #signup-form {
+        padding: 0 10%;
+        padding-bottom: 30%;
+    }
+
+    #signup-form > h2 {
+        padding: 20% 20% 30% 20%;
+        font-size: 250%;
+    }
+
+    #signup-form > h3 {
+        padding-bottom: 30%;
+    }
+
+    .text-input {
+        width: 74%;
+        height: 39px;
+        border-radius: 0;
+    }
+
+    .join-button {
+        width: 25%;
+        font-size: 15px;
+        padding: 10px;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -432,6 +463,10 @@ footer {
         padding-left: 200px;
         padding-right: 200px;
     }
+
+    #signup {
+        padding: 15%;
+    }
 }
 
 /* 4k (2490px and up) */
@@ -440,5 +475,9 @@ footer {
         max-width: 2500px;
         padding-left: 25%;
         padding-right: 25%;
+    }
+
+    #signup {
+        padding: 20%;
     }
 }
