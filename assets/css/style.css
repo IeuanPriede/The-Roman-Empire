@@ -110,7 +110,9 @@ main {
     padding-left: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
+    padding-right: 10px;
     bottom: 100px;
+    text-align: center;
 }
 
 #whatwas {
@@ -170,7 +172,7 @@ main {
 
 .container {
     position: relative;
-    padding: 10px 40px;
+    padding: 10px 20px 0 30px;
     width: 100%;
 }
 
@@ -284,6 +286,11 @@ footer {
 
 /* Media query: larger phones and larger (375px and up) */
 @media screen and (min-width: 380px) {
+
+    #logo {
+        padding: 0 1.4rem;
+    }
+
     main {
         margin-top: 40px;
     }
@@ -325,6 +332,7 @@ footer {
     #logo {
         font-size: 200%;
         line-height: 75px;
+        padding: 0 0.8rem;
     }
 
     main {
