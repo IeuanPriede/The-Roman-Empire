@@ -145,6 +145,13 @@ main {
 
 /* Timeline */
 
+#backgroundimage {
+    background-image: url("../images/pexels-karol-wisniewski-279026-851646.jpg");
+    background-size: cover;
+    background-position: 50%;
+    flex-grow: 1;
+}
+
 #heading > h2 {
     text-align: center;
     font-size: 150%;
