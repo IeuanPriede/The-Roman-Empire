@@ -17,8 +17,9 @@ Much of the world we know today took shape during the Roman era.
   * [Colour Scheme](#colour-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
-* [Features](#features)
-* [Accessibility](#accessibility)
+  * [Wireframes](#wireframes)
+  * [Features](#features)
+  * [Accessibility](#accessibility)
 
 * [Technologies Used](#technologies-used)
   * [Languages Used](#languages-used)
@@ -58,9 +59,13 @@ Much of the world we know today took shape during the Roman era.
 
 ### Colour Scheme
 
-I wanted to use a darker red colour scheme to add emphasis to fact that this site is about the Roman Empire. A darker shade of red, or maroon, is synonymous to the Romans.
+I wanted to use a darker red colour scheme to add emphasis to fact that this site is about the Roman Empire. A darker shade of red, or maroon, is synonymous with the Romans.
 
-* In the header and footer I used the colour of maroon.
+* In the header and footer I used #800000.
+* In the main body of the page I used #491616.
+* For the text I used #ffffff.
+* For the background to the text I used #75030399.
+* For the submit button "Subscribe" I used #ffd700.
 
 ### Typography
 
@@ -71,31 +76,51 @@ Google Fonts was used to import the chosen fonts for use in the site.
 
 ### Imagery
 
-As the website is called The Roman Empire, I wanted to use an image for the page background of a Roman structure (colosseum ) to give the user the feeling that they are visiting an ancient Roman site.
+As the website is called The Roman Empire, I wanted to use an image for the page background of a Roman structure (colosseum) to give the user the feeling that they are visiting an ancient Roman site.
 
 The map of the Roman territory was taken from google images. Here is the link: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Map_of_the_Roman_Empire_at_its_height.svg/1200px-Map_of_the_Roman_Empire_at_its_height.svg.png
 
 The images of the Roman Soldier and the Chariot were taken from Pixabay. Here are the links: https://cdn.pixabay.com/photo/2017/05/28/09/59/rome-2350633_960_720.jpg (Roman Soldier), https://cdn.pixabay.com/photo/2019/09/17/19/42/char-4484402_1280.jpg (Chariot).
 
+### Wireframes
+
+Wireframes were created for mobile, tablet and desktop using balsamiq.
+
+![Home Page]
+![Timeline Page]
+![Newsletter Page]
+![Subscribe Page]
+
 ### Features
 
-The website is comprised of a home page, a timeline page, a newsletter page.
+The website is comprised of a home page, a timeline page, a newsletter page & a subscribe page.
 
 All pages are responsive and have:
 
 * A Favicon in the browser tab.
 
-![favicon]()
+![favicon](assets/images/Favicon.png)
 
 * The title of the site at the top of every page. This title also acts as a link back to the home page.
 
-![The Roman Empire Title]()
+![The Roman Empire Title](assets/images/title.png)
 
 #### The Home Page
 
+The home page of The Roman Empire displays a hero image of a Roman colosseum, including a box with the page title inside.
+Further down contains informational content about the Roman Empire, also containing images.
+
 #### The Timeline Page
 
+The timeline page is titled Timeline. The title and the timeline are contained within a box. The page has a background image of the colosseum seen in the home page.
+
 #### The Newsletter Page
+
+The Newsletter page also has a background image of the colosseum seen in the home page and timeline page. Contained within a box is the "sign-up for our newsletter section", with a text input bar to type in your email. The submit button is labelled as Subscribe. 
+
+#### The Subscribe Page
+
+The Subscribe page also has a background image of the colosseum seen in the home page and timeline page. Contained within a box is the "Thank you for subscribing to our newsletter" message.
 
 ### Accessibility
 
