@@ -1,6 +1,6 @@
 # Welcome to The Roman Empire site
 
-![The Roman Empire on a variety of screen sizes](/workspace/Project-1/assets/images/title.png)
+![The Roman Empire on a variety of screen sizes](assets/images/title.png)
 
 Visit the deplyed side: [The Roman Empire] (https://ieuanpriede.github.io/Project-1/)
 
