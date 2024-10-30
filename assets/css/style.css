@@ -265,6 +265,13 @@ main {
     width: 100%;
 }
 
+/* Subscribe */
+
+#thankyou {
+    font-size: 200%;
+    margin-top: 30%;
+}
+
 /* Footer */
 footer {
     background-color: maroon;
