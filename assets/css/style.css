@@ -267,9 +267,17 @@ main {
 
 /* Subscribe */
 
+
+#subscribe {
+    background-color: rgba(117, 3, 3, 0.6);
+    padding: 20px;
+    padding-bottom: 25%;
+}
+
 #thankyou {
+    text-align: center;
+    padding: 20% 0 20% 0;
     font-size: 200%;
-    margin-top: 30%;
 }
 
 /* Footer */
@@ -310,6 +318,12 @@ footer {
         padding-left: 10px;
         padding-right: 10px;
         padding-bottom: 10px;
+    }
+
+    /* Subscribe */
+
+    #subscribe {
+        margin-top: 100px;
     }
 }
 /* Media query: tablets and larger (768px and up) */
@@ -453,6 +467,13 @@ footer {
         font-size: 15px;
         padding: 10px;
     }
+
+    /* Subscribe */
+
+    #subscribe {
+        margin: 0% 20% 0% 20%;
+        padding-bottom: 5%;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -478,6 +499,11 @@ footer {
     .left::after {
         left: 97%;
     }
+
+    /* Subscribe */
+
+#thankyou {
+}
 }
 
 /* Larger devices (laptops, desktops and monitors 1440px and up) */
