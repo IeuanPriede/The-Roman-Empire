@@ -25,9 +25,9 @@ Visit the deplyed side: [The Roman Empire] (https://ieuanpriede.github.io/Projec
 * [index.html](w3/index.html-validator.png) - Passed
 * [timeline.html](w3/timeline.html-validator.png) - Passed
 * [newsletter.html](w3/newsletter.html-validator.png) - Passed
-* [subscribe.html]()
+* [subscribe.html](w3/subscribe.html-validator.png) - Passed
 
-* [style.css]()
+* [style.css](w3/style.css-validator.png) - Passed
 
 ## MANUAL TESTING
 
@@ -63,10 +63,12 @@ Full testing was performed on the following devices:
 
 * Laptop:
   * Acer, Aspire A715-75G - 1920 x 1080 x 59 hertz
+  * Macbook Pro
+* Ipad, Tablet:
+  * Ipad  
 * Mobile Devices:
-  * iPhone 13 pro.
-  * iPhone 11 pro.
-  * Phone X.
+  * iPhone 12 mini
+  
 
 Each device tested the site using the following browsers:
 

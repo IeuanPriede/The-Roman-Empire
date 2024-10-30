@@ -10,7 +10,7 @@ Much of the world we know today took shape during the Roman era.
 
 ## CONTENTS
 
-* [User Experience](#user-experience-ux)
+* [User Experience](#user-experience)
   * [User Stories](#user-stories)
 
 * [Design](#design) 
@@ -103,9 +103,10 @@ The website is comprised of a home page, a timeline page, a newsletter page & a 
 
 All pages are responsive and have:
 
-* A Favicon in the browser tab.
+* A Favicon in the browser tab & the footer.
 
-![favicon](assets/images/Favicon.png)
+![favicon](assets/images/Favicon.png)  
+![favicon](assets/images/favicons.png)
 
 * The title of the site at the top of every page. This title also acts as a link back to the home page.
 
@@ -133,6 +134,8 @@ The Newsletter page also has a background image of the colosseum seen in the hom
 #### The Subscribe Page
 
 The Subscribe page also has a background image of the colosseum seen in the home page and timeline page. Contained within a box is the "Thank you for subscribing to our newsletter" message.
+
+![Subscribe page](assets/images/subscribe.png)
 
 ### Accessibility
 
@@ -202,6 +205,8 @@ Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
 ### Code Used
 
 * I used the Code Institute curriculum to help with my coding. In particular the 'Love Running' section. 
+
+* I also used Slack for help when I could not solve a problem.
 
 * I used this [video tutorial](https://www.youtube.com/watch?v=t5AE66WgQD0&t=408s&ab_channel=GreatStack) on YouTube by [GreatStack](https://www.youtube.com/@GreatStackDev) which taught me how to create a timeline.
 
