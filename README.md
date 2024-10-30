@@ -92,10 +92,10 @@ The images of the Roman Soldier and the Chariot were taken from Pixabay. Here ar
 
 Wireframes were created for mobile, tablet and desktop using balsamiq.
 
-![Home Page]
-![Timeline Page]
-![Newsletter Page]
-![Subscribe Page]
+![Home Page](assets/images/homepagewireframe.png)
+![Timeline Page](assets/images/timelinewireframes.png)
+![Newsletter Page](assets/images/newsletterwireframe.png)
+![Subscribe Page](assets/images/subscribewireframes.png)
 
 ### Features
 
