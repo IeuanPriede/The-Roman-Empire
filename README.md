@@ -19,6 +19,10 @@ Much of the world we know today took shape during the Roman era.
   * [Imagery](#imagery)
   * [Wireframes](#wireframes)
   * [Features](#features)
+    * [The Home page](#the-home-page)
+    * [The Timeline Page](#the-timeline-page)
+    * [The Newsletter Page](#the-newsletter-page)
+    * [The Subscribe Page](#the-subscribe-page)
   * [Accessibility](#accessibility)
 
 * [Technologies Used](#technologies-used)
