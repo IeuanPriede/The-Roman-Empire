@@ -298,15 +298,11 @@ footer {
     color: #ffffff;
 }
 
-/* Media query: larger phones and larger (375px and up) */
+/* Media query: larger phones and larger (380px and up) */
 @media screen and (min-width: 380px) {
 
     #logo {
         padding: 0 1.4rem;
-    }
-
-    main {
-        margin-top: 40px;
     }
 
     #cover-text {
@@ -321,7 +317,7 @@ footer {
     }
 
     /* Subscribe */
-
+    
     #subscribe {
         margin-top: 100px;
     }

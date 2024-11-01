@@ -6,7 +6,7 @@ Visit the deplyed side: [The Roman Empire] (https://ieuanpriede.github.io/Projec
 
 An introduction into the deep history of the Roman Empire.
 
-Much of the world we know today took shape during the Roman era. 
+The Roman Empire profoundly shaped today's world, laying foundations in law, governance, architecture, and language that continue to influence modern societies. Their innovations in engineering and infrastructure—such as roads, aqueducts, and urban planning—paved the way for modern city development. Latin, the language of the Romans, evolved into the Romance languages and enriched English vocabulary. Additionally, Rome’s model of a republic and ideas on citizenship influenced modern democratic institutions. Through these legacies, the Roman Empire remains woven into the fabric of contemporary life.
 
 ## CONTENTS
 
@@ -105,7 +105,7 @@ All pages are responsive and have:
 
 * A Favicon in the browser tab & the footer.
 
-![favicon](assets/images/Favicon.png)  
+![favicon](assets/images/favicon.png)  
 ![favicon](assets/images/favicons.png)
 
 * The title of the site at the top of every page. This title also acts as a link back to the home page.
