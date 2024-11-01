@@ -28,6 +28,25 @@ Visit the deplyed side: [The Roman Empire] (https://ieuanpriede.github.io/Projec
 * [subscribe.html](w3/subscribe.html-validator.png) - Passed
 
 * [style.css](w3/style.css-validator.png) - Passed
+* [style.css](assets/images/jigsawstyle.css.png) - Passed
+
+### Lighthouse
+
+I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
+
+### Mobile Results 
+
+![index.html](assets/images/homepagelighthouse.png)
+![timeline](assets/images/timelinelighthouse.png)
+![newsletter](assets/images/newsletterlighthouse.png)
+![subscribe](assets/images/subscribelighthouse.png)
+
+### Desktop Results
+
+![index.html](assets/images/homepagelighthousedesktop.png)
+![timeline](assets/images/timelinelighthousedesktop.png)
+![newsletter](assets/images/newsletterlighthousedesktop.png)
+![subscribe](assets/images/subscribelighthousedesktop.png)
 
 ## MANUAL TESTING
 

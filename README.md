@@ -220,14 +220,18 @@ All information on the timeline page were pulled from [Duckster](https://www.duc
 
 Home page hero image:
 
+Pexels -
 [Colusseum](https://www.pexels.com/photo/colosseum-rome-851646/)
 
 Home page images : 
 
+Wikimedia -
 [Map of Roman territory](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Map_of_the_Roman_Empire_at_its_height.svg/1200px-Map_of_the_Roman_Empire_at_its_height.svg.png)
 
+Pixabay -
 [Roman Soldier](https://cdn.pixabay.com/photo/2017/05/28/09/59/rome-2350633_960_720.jpg)
 
+Pixabay -
 [Chariot](https://cdn.pixabay.com/photo/2019/09/17/19/42/char-4484402_1280.jpg)
 
 [def]: assets/images/title.png
