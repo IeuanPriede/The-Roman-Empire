@@ -2,7 +2,7 @@
 
 ![The Roman Empire on a variety of screen sizes](assets/images/alldevices.png)
 
-Visit the deplyed side: [The Roman Empire] (https://ieuanpriede.github.io/Project-1/)
+Visit the deployed side: [The Roman Empire] (https://ieuanpriede.github.io/The-Roman-Empire/)
 
 An introduction into the deep history of the Roman Empire.
 
